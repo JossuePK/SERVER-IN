@@ -907,3 +907,36 @@ networks-probe.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 TUNNELS
 brown-outcome.gl.at.ply.gg:2206 => 127.0.0.1:2206 (minecraft-bedrock)
 networks-probe.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732578650248 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+brown-outcome.gl.at.ply.gg:2206 => 127.0.0.1:2206 (minecraft-bedrock)
+networks-probe.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732578653301 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+brown-outcome.gl.at.ply.gg:2206 => 127.0.0.1:2206 (minecraft-bedrock)
+networks-probe.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732578656361 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+brown-outcome.gl.at.ply.gg:2206 => 127.0.0.1:2206 (minecraft-bedrock)
+networks-probe.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732578659581 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+brown-outcome.gl.at.ply.gg:2206 => 127.0.0.1:2206 (minecraft-bedrock)
+networks-probe.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732578662638 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+brown-outcome.gl.at.ply.gg:2206 => 127.0.0.1:2206 (minecraft-bedrock)
+networks-probe.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
