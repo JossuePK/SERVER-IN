@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1732411112595
+  login: 1732403183222
+money: '0'
+last-account-name: .Ezqulz0
+logoutlocation:
+  world: 8f5be7f8-37b7-4a74-879c-56b427119e7f
+  world-name: world
+  x: -922.2396
+  y: 65.0
+  z: -1604.7126
+  yaw: -136.5808868408203
+  pitch: 32.03947448730469
+lastlocation:
+  world: 092a393a-17c6-4352-b5bf-23556118a184
+  world-name: world_nether
+  x: 0.9948375
+  y: 35.0
+  z: -290.5683
+  yaw: -162.21327209472656
+  pitch: -19.5841064453125

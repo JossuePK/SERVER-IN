@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1732410863020
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1732410982046
+  login: 1732410811928
+money: '0'
+last-account-name: .jordyjacome1
+logoutlocation:
+  world: 8f5be7f8-37b7-4a74-879c-56b427119e7f
+  world-name: world
+  x: -927.1424
+  y: 64.0
+  z: -1611.0016
+  yaw: -114.40557098388672
+  pitch: -24.816787719726562
+lastlocation:
+  world: 8f5be7f8-37b7-4a74-879c-56b427119e7f
+  world-name: world
+  x: -730.27216
+  y: 72.12499
+  z: -983.88837
+  yaw: 118.32650756835938
+  pitch: 16.148773193359375
